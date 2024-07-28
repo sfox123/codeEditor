@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+
+# Build output
+dist/
+out/
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Miscellaneous
+npm-debug.log*
+yarn-error.log*
